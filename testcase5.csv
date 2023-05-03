@@ -1,0 +1,11 @@
+Party,Direction,NetLimit
+A,Sell,23
+A,Buy,34
+B,Sell,35
+B,Buy,32
+C,Sell,34
+C,Buy,54
+D,Sell,43
+D,Buy,24
+E,Sell,54
+E,Buy,43

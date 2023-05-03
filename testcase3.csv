@@ -1,0 +1,17 @@
+Party,Product,Direction,Quantity,Price
+A,Apple,Sell,9,96
+A,Banana,Sell,9,104
+A,Cherry,Sell,9,99
+A,Orange,Sell,9,102
+B,Apple,Buy,9,102
+B,Banana,Buy,9,101
+B,Cherry,Buy,9,99
+B,Orange,Buy,9,105
+C,Apple,Sell,9,101
+C,Banana,Sell,9,104
+C,Cherry,Sell,9,99
+C,Orange,Sell,9,100
+D,Apple,Buy,9,96
+D,Banana,Buy,9,100
+D,Cherry,Buy,9,97
+D,Orange,Buy,9,99

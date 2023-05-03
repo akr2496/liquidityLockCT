@@ -1,0 +1,14 @@
+,Party,CounterParty,Direction,Product,Quantity,Rate
+0,A,C,Sell,Apple,90,70
+1,B,C,Sell,Apple,0,70
+2,B,D,Sell,Apple,90,70
+3,A,C,Buy,Banana,90,70
+4,B,C,Buy,Banana,0,70
+5,B,D,Buy,Banana,90,70
+6,D,E,Sell,Banana,0,70
+7,A,B,Sell,Cherry,90,70
+8,B,C,Buy,Cherry,0,70
+9,C,D,Sell,Cherry,90,70
+10,D,E,Buy,Cherry,0,70
+11,A,D,Buy,Orange,90,70
+12,B,D,Buy,Orange,0,70
